@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/Phala-Network/ai-agent-template-redpill/issues">Report Bug</a>
     ·
-    <a href="https://discord.gg/phala-network">Discord</a>
+    <a href="https://phala.com/discord">Discord</a>
   </p>
 
   <h3>Architecure Overview</h3>
@@ -58,7 +58,7 @@ cp .env.example .env
 Get an API Key from Redpill
 > **Note**
 > 
-> There is a default RedPill API Key provided in the .env.example file. This API key is rate limited and if you run into an error that displays `Insufficient funds`, reach out to the Phala Team on [discord](https://discord.gg/phala-network).
+> There is a default RedPill API Key provided in the .env.example file. This API key is rate limited and if you run into an error that displays `Insufficient funds`, reach out to the Phala Team on [discord](https://phala.com/discord).
 
 - Go to https://red-pill.ai/dashboard and claim your API Key by swapping some ETH for wGPT at https://app.uniswap.org/explore/tokens/base/0x74F62Bc1961028C22b8080961c6534f4eDD49D6C
 - Video Tutorial: https://youtu.be/ZoJwbLNhbWE
